@@ -1,0 +1,15 @@
+{
+  "name": "user-card",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
